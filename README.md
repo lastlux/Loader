@@ -1,1 +1,1 @@
-# CSGO Loader
+# Loader
