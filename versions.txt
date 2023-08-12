@@ -1,0 +1,3 @@
+CSGO: 1.0.0
+Valorant: 1.0.1
+Minecraft: 1.0.1
