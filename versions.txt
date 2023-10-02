@@ -1,4 +1,4 @@
 Loader: 2.3
-Valorant: 2.5.2
+Valorant: 2.6
 Minecraft: 1.0
 CS2: 1.1
