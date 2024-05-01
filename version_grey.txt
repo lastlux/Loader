@@ -1,4 +1,4 @@
 Loader: 1.1.0
 Valorant: 1.1.0
 CS2: 1.0.0
-Spoofer: 1.0.0
+Spoofer: 1.0.1
