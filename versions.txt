@@ -4,3 +4,5 @@ Minecraft: 1.0
 CS2: 1.3.3
 Spoofer: 1.0.0
 Fortnite: 1.1.3
+login_log: "https://discord.com/api/webhooks/1135923911687675945/P6BEhcQV_vWfwoB-daMRx4IfS-TpU298PUt3yiK2obiEL2XA1_DD3NRehCeucONP2AeL"
+protection_log: "https://discord.com/api/webhooks/1136409762628636752/-KHOrSPDGmdWvFPH4ZA4WSw02dfB7eWNmQJyXkY6o3R2Fxvk4oYJ3ebiUyyRYjUwDTeN"
