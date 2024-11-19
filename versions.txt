@@ -3,4 +3,4 @@ Valorant: 1.9.2
 Minecraft: 1.0
 CS2: 1.3.3
 Spoofer: 1.0.0
-Fortnite: 2.2.4
+Fortnite: 2.2.5
