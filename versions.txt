@@ -1,4 +1,4 @@
-Loader: 2.9.2
+Loader: 2.9.3
 Valorant: 2.0.5
 Minecraft: 1.0
 CS2: 1.3.3
