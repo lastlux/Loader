@@ -6,3 +6,4 @@ Spoofer: 1.0.0
 Fortnite: 2.4.6
 Emulador: 1.0.2
 heartopia: 1.0.1
+heartopia_loader: 1.0.0
