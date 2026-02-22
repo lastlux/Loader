@@ -5,5 +5,5 @@ CS2: 1.3.3
 Spoofer: 1.0.0
 Fortnite: 2.4.6
 Emulador: 1.0.3
-heartopia: 1.2.0
+heartopia: 1.2.1
 heartopia_loader: 1.1.0
